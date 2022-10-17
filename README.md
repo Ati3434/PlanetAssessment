@@ -4,6 +4,6 @@
 - Pytest
 
 # Pre-request
-- set the drictory to planetAssesment/tests
-- set the webdrivers and path of executable drivers if it's needed in fixtures/params
-- run a particular test file, example; pytest -v -s test_save_search.py 
+- Set the drictory to planetAssesment/tests
+- Set the webdrivers and path of executable drivers if it's needed in fixtures/params
+- Run a particular test file, example; pytest -v -s test_save_search.py 
